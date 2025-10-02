@@ -10,7 +10,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  building:
+  build:
 
     runs-on: ubuntu-latest
 
